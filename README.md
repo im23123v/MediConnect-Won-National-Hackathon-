@@ -1,4 +1,4 @@
-# MediConnect
+# MediConnect - (24-hours Hackathon)
 
 MediConnect is an intelligent healthcare platform designed to bridge the communication gap between patients, doctors, and medical specialists. It combines telemedicine, real-time collaboration, and AI-driven diagnostics into a single, secure system.
 
